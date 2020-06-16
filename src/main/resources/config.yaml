@@ -1,0 +1,22 @@
+http:
+  port: "8081"
+
+  
+sfdc:
+  username: "apalikhe@njclabs.com"
+  password: "Graduate#2020"
+  token: "hRZGGQRJM4SG7rZTzzmlZsBU"
+    
+file:
+  accountsDir: "E:/module12_resource"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
+  
+postalCode:
+  p: "78614"
+ 
